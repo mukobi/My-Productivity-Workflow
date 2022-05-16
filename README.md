@@ -11,6 +11,7 @@ ideas for breaks: listen to music with eyes closed, do nothing and think, do not
 ### Calendly
 
 ### Nirvana
+- TODO Add script for summing costs to a GitHub My-Scripts repo for sharing
 
 ### Signing-down
 - Opposite of signing-up
